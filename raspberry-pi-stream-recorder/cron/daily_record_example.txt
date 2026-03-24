@@ -1,0 +1,1 @@
+0 7 * * * /usr/bin/python3 /home/pi/raspberry-pi-stream-recorder/scripts/stream_record.py
